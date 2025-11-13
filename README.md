@@ -1,4 +1,9 @@
 # Global-Store-Overall-Insight
+
+
+
+<img width="1909" height="1005" alt="Screenshot 2025-11-13 141325" src="https://github.com/user-attachments/assets/cc7a8b17-5881-427b-aff6-330afdb26ef6" />
+
 🏪 Global Store Analysis – Power BI Dashboard
 📊 Project Overview
 
